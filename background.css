@@ -1,0 +1,25 @@
+body {
+  /*background-repeat: no-repeat;*/
+  /*background-size: cover;*/
+  background-color: #F9EBEA;
+  color: black;
+}
+h1{
+  font-family: "Gill Sans", sans-serif;
+  color: #C0392B ;
+}
+b {
+  padding: 2px;
+
+  padding-top: 5px;
+  font-family: system-ui;
+  color: #1B2631 ;
+}
+a {
+  color: #2E4053;
+  padding: 10px;
+}
+.in_table{
+  max-width: 350px;
+max-height: 350px;
+}

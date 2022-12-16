@@ -45,3 +45,13 @@ If you want to delete a photo, the website will ask you to specify your action.
 
 This is the first version of the project. In which the main intended functionality is implemented. Thank you for your attention.
 
+Цith the latest amendments has appeared a button for changing the publication
+
+![+ edit button](https://user-images.githubusercontent.com/113947950/208192777-2880a460-0d42-41d1-905f-c7f9baa59972.PNG)
+
+You can change the name, category and link of the photo
+
+![Edit](https://user-images.githubusercontent.com/113947950/208192865-ef021b2f-89ba-4547-bc15-f6cc0312d9e5.PNG)
+
+
+
